@@ -1,5 +1,5 @@
 # LeetCode_Array
 leetcode array solution of c
-## mysolution
+## my solution
 - use c
 - array
